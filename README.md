@@ -1,0 +1,2 @@
+# Comparative-Analysis-of-Password-Hashes-with-and-without-Salt
+This Python program allows users to register their credentials securely, including their username and password. It utilizes hashing techniques for password storage, along with the addition of salt for enhanced security. The program also includes functionality to check if the user's password can be guessed or not both with and without salt.
